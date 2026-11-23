@@ -95,4 +95,4 @@ This is one of my first Python projects. I am an aspiring junior software develo
 
 **Author:** [Vincent Shi] · 
 [GitHub link: https://github.com/jeromeDvin] · 
-[LinkedIn link: https://www.linkedin.com/in/vincent-shi-426a82215/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bhb6965W%2FQHmAHuXJmmEHsg%3D%3D]
+[LinkedIn link: https://www.linkedin.com/in/vincent-shi-426a82215/]
